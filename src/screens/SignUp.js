@@ -13,7 +13,6 @@ class SignUp extends React.Component {
     }
 
     _isMounted = false;
-
     //Submitされたら
     handleOnSubmit = (values) => {
         //spinner表示開始
